@@ -47,7 +47,7 @@ export function HeroSection({ onScrollDown }: HeroSectionProps) {
             <div className="text-xs text-gray-300 font-mono">Codeforces</div>
           </div>
           <a
-            href="https://codolio.com/profile/Rishabh6866"
+            href="https://codolio.com/profile/Rishabh_6866"
             target="_blank"
             rel="noopener noreferrer"
             className="block text-center backdrop-blur-sm bg-cyan-950/30 px-6 py-3 rounded-lg border border-pink-500/30 hover:border-pink-400 transition-all hover:shadow-[0_0_20px_rgba(236,72,153,0.3)]"
