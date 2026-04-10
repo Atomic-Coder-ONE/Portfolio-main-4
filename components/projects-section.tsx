@@ -12,8 +12,8 @@ const projects = [
       "A lightweight neural network library built from scratch in Python and NumPy, designed as both an educational resource and a practical implementation of deep learning fundamentals. Features modular layers to support flexible model construction with numerical stability and efficiency through vectorized NumPy operations.",
     image: "/neural-network-deep-learning-visualization-dark-th.jpg",
     technologies: ["Python", "NumPy", "Git"],
-    link: "https://github.com/rishabh6866/DAMAIN/tree/main/DAM-main",
-    
+    link: "https://github.com/syedadeed/DAM.git",
+
   },
   {
     id: 2,
